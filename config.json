@@ -1,0 +1,6 @@
+{
+    "baseDifficulty": 4,
+    "challengeStrLen": 16,
+    "connectionsBatchSize": 10,
+    "maxSimultaneousConnections": 1000
+}
